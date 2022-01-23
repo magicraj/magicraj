@@ -1,1 +1,3 @@
 downward file test1
+
+some changes on up origin 1
