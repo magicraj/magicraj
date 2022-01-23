@@ -1,9 +1,9 @@
 downward file test1
 
-
 some changes on up origin 1
 
 down origin file 2 
 
 down origin file 3
+
 
